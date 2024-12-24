@@ -163,7 +163,7 @@ while True:
     pygame.draw.circle(screen, font_text_color, (clock_frame.centerx, clock_frame.centery), clock_frame.width // 120)
 
     draw_hand(current_time_in_city[:-6], radius * 0.5, font_text_color)  # часовая стрелка
-    draw_hand(current_time_in_city[3:-3], radius * 0.7, font_text_color)  # минутная стрелка
+    draw_hand(current_time_in_city[3:-3], radius * 0.8, font_text_color)  # минутная стрелка
     draw_hand(current_time_in_city[6:], radius * 0.93, "#ff483b")  # секундная стрелка
 
     pygame.display.flip()  # обновляем экран
