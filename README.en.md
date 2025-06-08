@@ -6,6 +6,8 @@ This is probably one of the most original mechanical watches you will ever see. 
 
 ### Using:   
 Install the required libraries   
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 After that you can run the `watch_app.py` file and see this creation)

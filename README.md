@@ -7,6 +7,8 @@
 
 ### Использование:   
 Установите необходимые библиотеки   
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 После чего можно запускать файл `watch_app.py` и увидеть сие творение)
