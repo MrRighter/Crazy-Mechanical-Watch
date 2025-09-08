@@ -6,6 +6,8 @@ This is probably one of the most original mechanical watches you will ever see. 
 
 ---
 
+![screenshot](other/screenshot2.png)
+
 ---
 
 ### Using ⚙️
